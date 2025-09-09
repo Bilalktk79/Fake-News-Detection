@@ -1,0 +1,8 @@
+(
+echo *.csv
+echo *.db
+echo __pycache__/
+echo *.pyc
+echo .ipynb_checkpoints/
+echo .venv/
+)> .gitignore
